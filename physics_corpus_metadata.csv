@@ -1,0 +1,101 @@
+﻿arxiv_id,title,subjects,month,period
+2407.06006,Heisenberg-limited Bayesian phase estimation with low-depth digital quantum circuits,Quantum Physics (quant-ph),2024-07,PREVIOUS
+2407.01522,A diagrammatic language for the Causaloid framework,Quantum Physics (quant-ph) ; General Relativity and Quantum Cosmology (gr-qc),2024-07,PREVIOUS
+2407.14195,Optimized surface ion trap design for tight confinement and separation of ion chains,Quantum Physics (quant-ph) ; Atomic Physics (physics.atom-ph),2024-07,PREVIOUS
+2408.10801,Solving an Industrially Relevant Quantum Chemistry Problem on Quantum Hardware,Quantum Physics (quant-ph),2024-08,PREVIOUS
+2408.09922,Realization of Landau-Zener Rabi Oscillations on optical lattice clock,Quantum Physics (quant-ph) ; Atomic Physics (physics.atom-ph),2024-08,PREVIOUS
+2409.06326,Steady-state entanglement scaling in open quantum systems: A comparison between several master equations,Quantum Physics (quant-ph) ; Statistical Mechanics (cond-mat.stat-mech),2024-09,PREVIOUS
+2409.04863,High purity two-dimensional levitated mechanical oscillator,Quantum Physics (quant-ph),2024-09,PREVIOUS
+2410.11257,Pole and zero edge state invariant for 1D non-Hermitian sublattice symmetry,Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Quantum Physics (quant-ph),2024-10,PREVIOUS
+2410.04169,Quantum Calculus of Fibonacci Divisors and Fermion-Boson Entanglement for Infinite Hierarchy of N = 2 Supersymmetric Golden Oscillators,Quantum Physics (quant-ph),2024-10,PREVIOUS
+2411.19684,Quantum computing architecture with Rydberg gates in trapped ions,Quantum Physics (quant-ph),2024-11,PREVIOUS
+2411.02166,Generation of high-fidelity Greenberger-Horne-Zeilinger states in a driven hybrid quantum system,Quantum Physics (quant-ph),2024-11,PREVIOUS
+2412.01851,Generalized Loschmidt echo and information scrambling in open systems,Quantum Physics (quant-ph) ; Disordered Systems and Neural Networks (cond-mat.dis-nn); Quantum Gases (cond-mat.quant-gas); Statistical Mechanics (cond-mat.stat-mech); Strongly Correlated Electrons (cond-mat.str-el),2024-12,PREVIOUS
+2412.04701,Engineering qubit dynamics in open systems with photonic synthetic lattices,Quantum Physics (quant-ph) ; Optics (physics.optics),2024-12,PREVIOUS
+2501.12018,Cluster property and Bell's inequalities,Quantum Physics (quant-ph),2025-01,PREVIOUS
+2501.12629,Entanglement dynamics in collision models and entanglement quilts,Quantum Physics (quant-ph),2025-01,PREVIOUS
+2502.18236,Phonon thermal Hall as a lattice Aharonov-Bohm effect,Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Materials Science (cond-mat.mtrl-sci); Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph),2025-02,PREVIOUS
+2502.01767,Real-Time Scattering Processes with Continuous-Variable Quantum Computers,Quantum Physics (quant-ph) ; High Energy Physics - Lattice (hep-lat); High Energy Physics - Phenomenology (hep-ph); High Energy Physics - Theory (hep-th),2025-02,PREVIOUS
+2503.12580,Light-induced quantum friction of carbon nanotubes in water,Optics (physics.optics) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Materials Science (cond-mat.mtrl-sci); Quantum Physics (quant-ph),2025-03,PREVIOUS
+2503.10607,Utilizing discrete variable representations for decoherence-accurate numerical simulation of superconducting circuits,Quantum Physics (quant-ph),2025-03,PREVIOUS
+2504.09234,Unleashing Optimizations in Dynamic Circuits through Branch Expansion,Programming Languages (cs.PL) ; Emerging Technologies (cs.ET); Quantum Physics (quant-ph),2025-04,PREVIOUS
+2504.19239,The effect of the number of parameters and the number of local feature patches on loss landscapes in distributed quantum neural networks,Quantum Physics (quant-ph) ; Machine Learning (cs.LG),2025-04,PREVIOUS
+2505.09714,Overcoming the entanglement barrier with sampled tensor networks,Quantum Physics (quant-ph),2025-05,PREVIOUS
+2505.24052,Correlated emission of electron-current waves,Quantum Physics (quant-ph) ; Disordered Systems and Neural Networks (cond-mat.dis-nn),2025-05,PREVIOUS
+2506.12906,Newton optimization for the Multiconfiguration Self Consistent Field method at the basis set limit: closed-shell two-electron systems,Chemical Physics (physics.chem-ph) ; Quantum Physics (quant-ph),2025-06,PREVIOUS
+2506.14526,Certified randomness from quantum speed limits,Quantum Physics (quant-ph) ; High Energy Physics - Theory (hep-th),2025-06,PREVIOUS
+2507.00504,High-fidelity two-qubit quantum logic gates in a trapped-ion chain using axial motional modes,Quantum Physics (quant-ph),2025-07,PREVIOUS
+2507.08351,Computational Study of the Spectral Behaviour of Different Isospectrally Patterned Lattices,Quantum Physics (quant-ph) ; Other Condensed Matter (cond-mat.other),2025-07,PREVIOUS
+2508.21486,Phase error estimation for passive detection setups with imperfections and memory effects,Quantum Physics (quant-ph),2025-08,PREVIOUS
+2508.17170,Predicting open quantum dynamics with data-informed quantum-classical dynamics,Quantum Physics (quant-ph) ; Statistical Mechanics (cond-mat.stat-mech); Computational Physics (physics.comp-ph),2025-08,PREVIOUS
+2509.12670,Non-Markovian amplitude damping in a central spin model with random couplings,Quantum Physics (quant-ph) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall),2025-09,PREVIOUS
+2509.07206,"Locality, Micro- vs. Macro-, Particle Interpretations and All That: A Lagrangian Approach to the Measurement Problem",Quantum Physics (quant-ph),2025-09,PREVIOUS
+2510.08299,"Quantum memory optimisation using finite-horizon, decoherence time and discounted mean-square performance criteria",Quantum Physics (quant-ph) ; Systems and Control (eess.SY); Optimization and Control (math.OC),2025-10,PREVIOUS
+2510.24939,Gouy Phase-Related Effects in the Free-Space Optical Modulation of Free Electrons,Optics (physics.optics) ; Quantum Physics (quant-ph),2025-10,PREVIOUS
+2511.17047,Chiral cavity-magnonic system for the unidirectional photon blockade,Quantum Physics (quant-ph),2025-11,PREVIOUS
+2511.05282,Open quantum-classical systems: A hybrid MASH master equation,Quantum Physics (quant-ph) ; Chemical Physics (physics.chem-ph),2025-11,PREVIOUS
+2512.04494,Less is more: subspace reduction for counterdiabatic driving of Rydberg atom arrays,Quantum Physics (quant-ph),2025-12,PREVIOUS
+2512.16673,Topological magic response in quantum spin chains,Quantum Physics (quant-ph) ; Strongly Correlated Electrons (cond-mat.str-el),2025-12,PREVIOUS
+2601.05113,Unitary fault-tolerant encoding of Pauli states in surface codes,Quantum Physics (quant-ph),2026-01,PREVIOUS
+2601.18347,Scaling of multicopy constructive interference of Gaussian states,Quantum Physics (quant-ph),2026-01,PREVIOUS
+2602.18327,Universal Protection of Quantum States from Decoherence,Quantum Physics (quant-ph),2026-02,PREVIOUS
+2602.21311,Coherent Quantum Evaluation of Collider Amplitudes for Effective Field Theory Constraints,High Energy Physics - Phenomenology (hep-ph) ; High Energy Physics - Experiment (hep-ex); Quantum Physics (quant-ph),2026-02,PREVIOUS
+2603.12535,Entanglement-Assisted Discrimination of Nonlocal Sets of Orthogonal States,Quantum Physics (quant-ph),2026-03,PREVIOUS
+2603.25782,Negative energies and the breakdown of bulk geometry,High Energy Physics - Theory (hep-th) ; General Relativity and Quantum Cosmology (gr-qc); Mathematical Physics (math-ph); Quantum Physics (quant-ph),2026-03,PREVIOUS
+2604.02112,Q2NS Demo: A Quantum Network Simulator Based on ns-3,Quantum Physics (quant-ph) ; Networking and Internet Architecture (cs.NI),2026-04,PREVIOUS
+2604.13760,Spin Qubit Leapfrogging: Dynamics of shuttling electrons on top of another,Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Quantum Physics (quant-ph),2026-04,PREVIOUS
+2605.22339,Dual wavelength source of entanglement for space quantum communication,Quantum Physics (quant-ph),2026-05,PREVIOUS
+2605.26245,Preparing thermal states of frustrated quantum spin systems using 139 qubits,Quantum Physics (quant-ph) ; Statistical Mechanics (cond-mat.stat-mech); Strongly Correlated Electrons (cond-mat.str-el),2026-05,PREVIOUS
+2606.07051,Quantum correlations and coherence in a two-qubit anisotropic $XY$ under magnetic field,Quantum Physics (quant-ph) ; Statistical Mechanics (cond-mat.stat-mech); Mathematical Physics (math-ph),2026-06,PREVIOUS
+2606.20166,Applications of quantum annealing to magnetic dipole hyperfine structure constants: First results beyond energies for atoms,Quantum Physics (quant-ph) ; Atomic Physics (physics.atom-ph); Chemical Physics (physics.chem-ph),2026-06,PREVIOUS
+2606.04686,Digital Quantum Reservoir Computing for ATM Time Series Prediction,"Quantum Physics (quant-ph) ; Computational Engineering, Finance, and Science (cs.CE)",2026-06,PREVIOUS
+2607.22396,Explicit block-encodings for biharmonic boundary-value problems,Quantum Physics (quant-ph) ; Numerical Analysis (math.NA),2026-07,JULY
+2607.11985,VQCSim: When Does Compile-Once Statevector Simulation Beat Generic Quantum Frameworks?,Quantum Physics (quant-ph) ; Emerging Technologies (cs.ET); Machine Learning (cs.LG),2026-07,JULY
+2607.13287,Exactly Solvable Diffraction-Grating Scattering Problems for TE and TM waves,Optics (physics.optics) ; Mathematical Physics (math-ph); Quantum Physics (quant-ph),2026-07,JULY
+2607.25661,Discrete power-law decay of subsystem distance after a quantum quench,Quantum Physics (quant-ph) ; Statistical Mechanics (cond-mat.stat-mech); Strongly Correlated Electrons (cond-mat.str-el); High Energy Physics - Theory (hep-th),2026-07,JULY
+2607.25109,Exceptional-point braiding with native controls,Quantum Physics (quant-ph),2026-07,JULY
+2607.21463,"Relational path integral, effective actions and quantum frame covariance in gravity",High Energy Physics - Theory (hep-th) ; General Relativity and Quantum Cosmology (gr-qc); Quantum Physics (quant-ph),2026-07,JULY
+2607.17964,Scanless quantum Fourier-transform mid-infrared spectroscopy for rapid high-sensitivity hyperspectral mapping,Optics (physics.optics) ; Instrumentation and Detectors (physics.ins-det); Quantum Physics (quant-ph),2026-07,JULY
+2607.14435,Imaginarity as a Resource within Quantum Coherence: Geometric Decomposition and Operational Conversion,Quantum Physics (quant-ph),2026-07,JULY
+2607.23745,The Physics of Unresolved Uncertainty: Quantum Mechanics as a Theory of Potentiality,Quantum Physics (quant-ph),2026-07,JULY
+2607.07970,Associating Trajectories with Quantum Processes by Equivalent Spectra,Quantum Physics (quant-ph),2026-07,JULY
+2607.28561,Statistically secure uncloneable encryption of arbitrary messages,Quantum Physics (quant-ph),2026-07,JULY
+2607.02868,Photon Squeezing and Its Signatures of Quantum Phase Transitions in the Open Quantum Rabi-Stark Model,Quantum Physics (quant-ph),2026-07,JULY
+2607.01811,Extracting Work from Discrete Quantum Polytropic Processes,Quantum Physics (quant-ph),2026-07,JULY
+2607.26978,Mean-field Pulse Adaptation for the Circularization of Interacting Rydberg Atoms,Quantum Physics (quant-ph) ; Atomic Physics (physics.atom-ph),2026-07,JULY
+2607.09151,Hybrid Quantum and Classical Workload Management with Graph-based Scheduling,"Quantum Physics (quant-ph) ; Distributed, Parallel, and Cluster Computing (cs.DC)",2026-07,JULY
+2607.06298,Composite-Fermion Study of Cavity-Modified Fractional Quantum Hall Excitation Gaps,Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Other Condensed Matter (cond-mat.other); Quantum Physics (quant-ph),2026-07,JULY
+2607.11867,Paraparticles intrinsically exhibit Hardy-space breakdown,Quantum Physics (quant-ph) ; Mathematical Physics (math-ph); Complex Variables (math.CV),2026-07,JULY
+2607.03278,Complexity of Normalized Persistence Problems for Topological Data Analysis and Local Hamiltonians,Quantum Physics (quant-ph) ; Computational Complexity (cs.CC); Machine Learning (cs.LG),2026-07,JULY
+2607.16520,Bridging Relativistic Twisted Fermion Beams and Photonic OAM Flux in Gauged Hopf Lattices: Emergent Topological Analogs,Optics (physics.optics) ; Quantum Physics (quant-ph),2026-07,JULY
+2607.09381,COSMA: Communication-aware Optimization of Fermionic Simulation Kernels for Modular Quantum Architectures,Quantum Physics (quant-ph),2026-07,JULY
+2607.18469,"Quantum-Enabled Spintronic ""Small"" Antennas",Mesoscale and Nanoscale Physics (cond-mat.mes-hall) ; Systems and Control (eess.SY); Quantum Physics (quant-ph),2026-07,JULY
+2607.04080,Coherent quantum control of dark excitons in hybrid metal organic chalchogenolates,Quantum Physics (quant-ph) ; Other Condensed Matter (cond-mat.other); Soft Condensed Matter (cond-mat.soft); Optics (physics.optics),2026-07,JULY
+2607.15201,Entanglement Detection for Two-Qubit and Three-Qubit Pure States via Unitary Transformations and Ancilla State Measurements,Quantum Physics (quant-ph),2026-07,JULY
+2607.11516,Quantum Simulation of Strongly Correlated Fermion-Phonon Models in Circuit QED,Quantum Physics (quant-ph) ; Disordered Systems and Neural Networks (cond-mat.dis-nn); Strongly Correlated Electrons (cond-mat.str-el),2026-07,JULY
+2607.18351,Probing gravitational interaction between milligram optomechanical oscillators operating in the quantum regime,Quantum Physics (quant-ph),2026-07,JULY
+2607.25899,When Quantum States over Spacetime Have No Common Process,Quantum Physics (quant-ph),2026-07,JULY
+2607.14056,Acoustic Firewalls: Analogue Gravity Perspective on the AMPS Paradox,General Relativity and Quantum Cosmology (gr-qc) ; Quantum Gases (cond-mat.quant-gas); Quantum Physics (quant-ph),2026-07,JULY
+2607.14518,Structure-Aware Variational State Preparation for Quantum Basket Option Pricing,Quantum Physics (quant-ph) ; Computational Finance (q-fin.CP),2026-07,JULY
+2607.06953,A quantum model for synchronizing finite state transition systems,Quantum Physics (quant-ph) ; Emerging Technologies (cs.ET),2026-07,JULY
+2607.14819,Quantum Remote Implementation of Hybrid Operations on Hyperstates Using Hyperentangled States,Quantum Physics (quant-ph),2026-07,JULY
+2607.14239,Fock-state preparation based on amplitude amplification in cavity QED,Quantum Physics (quant-ph),2026-07,JULY
+2607.08560,QSCOUT's Qubit-Boson Gate Set,Quantum Physics (quant-ph),2026-07,JULY
+2607.27171,OQRAM: Oblivious Quantum Random Access Memory for Securing Delegated Quantum Queries,Quantum Physics (quant-ph),2026-07,JULY
+2607.11174,Lie-Algebraic Subspace Quantization for Zero-Shot Quantum Learning and Barren-Plateau Mitigation,Quantum Physics (quant-ph),2026-07,JULY
+2607.28499,Structure-Preserving Quantum Simulation of Wave Equations on a Trapped-Ion Processor,Quantum Physics (quant-ph),2026-07,JULY
+2607.28740,Gapped Parent Hamiltonians for the Strongly Deformed Toric Code,Strongly Correlated Electrons (cond-mat.str-el) ; Statistical Mechanics (cond-mat.stat-mech); Quantum Physics (quant-ph),2026-07,JULY
+2607.27719,Phase Retrieval in $\mathbb C^4$ Requires Exactly Eleven Measurements,Quantum Physics (quant-ph) ; Information Theory (cs.IT); Differential Geometry (math.DG),2026-07,JULY
+2607.26436,Molecular triplets and other metastable states for excitonic quantum batteries,Quantum Physics (quant-ph) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Atomic and Molecular Clusters (physics.atm-clus),2026-07,JULY
+2607.02962,Entanglement Drives Common Noise into the Strong-Coupling Regime,Quantum Physics (quant-ph),2026-07,JULY
+2607.24851,Unitary designs from perturbed time evolutions of a chaotic Hamiltonian,Quantum Physics (quant-ph),2026-07,JULY
+2607.25865,OmniQEC: discovering practical quantum error-correcting codes by an AI scientist,Quantum Physics (quant-ph) ; Artificial Intelligence (cs.AI); Multiagent Systems (cs.MA),2026-07,JULY
+2607.07389,Circuit Depth Reduction of One-Ancilla Quantum Differential Equation Solver via Extrapolation,Quantum Physics (quant-ph) ; Numerical Analysis (math.NA),2026-07,JULY
+2607.21563,Fault-tolerant quantum algorithms for simulating atomic nuclei,Quantum Physics (quant-ph) ; Nuclear Theory (nucl-th),2026-07,JULY
+2607.29666,Release-free phononic crystal with strong microwave coupling,Quantum Physics (quant-ph) ; Mesoscale and Nanoscale Physics (cond-mat.mes-hall); Applied Physics (physics.app-ph),2026-07,JULY
+2607.09912,Heterodyne position detection of an optomechanical system,Quantum Physics (quant-ph) ; Optics (physics.optics),2026-07,JULY
+2607.06967,Tomography of a Macroscopic Quantum State influenced by Classical Self-Gravity,Quantum Physics (quant-ph) ; General Relativity and Quantum Cosmology (gr-qc),2026-07,JULY
+2607.18596,Dismantling the Stoquastic Dichotomy,Quantum Physics (quant-ph) ; Computational Complexity (cs.CC); Computational Physics (physics.comp-ph),2026-07,JULY
+2607.15184,Backpropagating Pauli Propagation,Quantum Physics (quant-ph) ; Strongly Correlated Electrons (cond-mat.str-el),2026-07,JULY
+2607.11238,Asymmetry-aided measurement-based quantum repeaters and distributed quantum computing with a decoder-free client,Quantum Physics (quant-ph),2026-07,JULY
+2607.27313,Suppressed Quantum Effects of Weakly Coupled Waves,High Energy Physics - Phenomenology (hep-ph) ; General Relativity and Quantum Cosmology (gr-qc); High Energy Physics - Experiment (hep-ex); High Energy Physics - Theory (hep-th); Quantum Physics (quant-ph),2026-07,JULY
